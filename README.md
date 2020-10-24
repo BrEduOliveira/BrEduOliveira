@@ -9,11 +9,15 @@
 
 ### About me
 
-- 🎓 I’m currently studying Computer Science at Unicentro
+🎓 I’m currently studying Computer Science at Unicentro
 
-- 💻 A lover of programming
+💻 A lover of programming
 
-  
+👽 Learning any tecnology that apears on my way.
+
+### Currently learning:
+
+
 - Work Hard Dream Big 👊🏻
 
 ---

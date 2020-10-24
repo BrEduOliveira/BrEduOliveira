@@ -12,10 +12,10 @@
 - 🎓 I’m currently studying Computer Science at Unicentro
 
 - 💻 The languages I’m learning are: 
-  * Java;
-  * C;
-  * PHP;
-  * Python.
+  * <code><img height="20" src="https://logodownload.org/wp-content/uploads/2017/04/java-logo.png"></code> Java;
+  * <code><img height="20" src="https://backofficevi.com/wp-content/uploads/2019/01/c-logo-png-11.png"></code> C;
+  * https://logodownload.org/wp-content/uploads/2016/10/php-logo.png PHP;
+  * <code><img height="20" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png"></code> Python.
   
 - Work Hard Dream Big 👊🏻
 

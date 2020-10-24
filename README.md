@@ -18,7 +18,9 @@
   * Python.
   
 - Work Hard Dream Big 👊🏻
-  
+
+---
+
 ### Thank you, and come back soon! :) 
 
 

@@ -15,12 +15,10 @@
 
 👽 Learning any tecnology that apears on my way.
 
+👊🏻Work Hard Dream Big 
+
 ### Currently learning:
 <code><img height="20" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png"></code> Python  <code><img height="20" src="https://logodownload.org/wp-content/uploads/2017/04/java-logo.png"></code> Java
-
----
-
-### Work Hard Dream Big 👊🏻
 
 ---
 

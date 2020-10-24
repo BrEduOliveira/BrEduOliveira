@@ -13,7 +13,7 @@
 
 - 💻 The languages I’m learning are: 
   * Java;
-  * HTML;
+  * C;
   * PHP;
   * Python.
   

@@ -22,7 +22,7 @@
 
 ---
 
-![#f03c15]texto`#f03c15`
+![#f03c15](texto)`#f03c15`
 
 ## Thank you, and come back soon! :) 
 

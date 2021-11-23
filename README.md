@@ -18,8 +18,7 @@
 
 
 ### Currently learning:
-<code><img height="20" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png"></code> Python <code>
----
+<code><img height="20" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png"></code> Python
 
 ## Thank you, and come back soon! :) 
 

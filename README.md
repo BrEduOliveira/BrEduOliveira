@@ -9,7 +9,7 @@
 
 ### About me
 
-🎓 I’m currently studying Computer Science at Unicentro
+🎓 I’m currently studying Data Science at Unopar
 
 💻 A lover of programming
 
